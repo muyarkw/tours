@@ -1,0 +1,55 @@
+::1 Wed Jul 08 2020 17:41:45 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 12 
+::1 Wed Jul 08 2020 17:41:50 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 12 
+::1 Wed Jul 08 2020 17:41:58 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/12  Get Tour id: 12 
+::1 Wed Jul 08 2020 17:42:06 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m PATCH http://localhost:3000/api/v1/tours/12  Updated Tour 12 
+::1 Wed Jul 08 2020 17:42:20 GMT+0800 (Malay Peninsula Standard Time) [31merror[39m PATCH http://localhost:3000/api/v1/tours/13 Invalid ID 
+::1 Wed Jul 08 2020 17:42:40 GMT+0800 (Malay Peninsula Standard Time) [31merror[39m DELETE http://localhost:3000/api/v1/tours/13 Invalid ID 
+::1 Wed Jul 08 2020 17:42:46 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m DELETE http://localhost:3000/api/v1/tours/11  Deleted 
+::1 Thu Jul 09 2020 09:57:25 GMT+0800 (Malay Peninsula Standard Time) [31merror[39m POST http://localhost:3000/api/v1/tours/ Missing name or price 
+::1 Thu Jul 09 2020 10:58:20 GMT+0800 (Malay Peninsula Standard Time) [31merror[39m POST http://localhost:3000/api/v1/tours/ Missing name or price 
+::1 Thu Jul 09 2020 10:58:56 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m POST http://localhost:3000/api/v1/tours/  [object Object] 
+::1 Thu Jul 09 2020 11:01:01 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m POST http://localhost:3000/api/v1/tours/  [object Object] 
+::1 Thu Jul 09 2020 11:04:14 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 14 
+::1 Thu Jul 09 2020 11:15:57 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m POST http://localhost:3000/api/v1/tours/  {"name":"Summer Tour 2","duration":10,"difficulty":"easy","price":1300} 
+::1 Thu Jul 09 2020 11:19:35 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 
+::1 Thu Jul 09 2020 11:21:26 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m POST http://localhost:3000/api/v1/tours/  {"name":"Summer Tour 3","duration":11,"difficulty":"easy","price":1350} 
+::1 Thu Jul 09 2020 11:23:22 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m POST http://localhost:3000/api/v1/tours/  {"name":"Summer Tour 1","duration":11,"difficulty":"easy","price":1350} 
+::1 Thu Jul 09 2020 11:49:03 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  undefined 
+::1 Thu Jul 09 2020 11:56:55 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 11:57:17 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 12:46:56 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 [object Object] 
+::1 Thu Jul 09 2020 12:47:59 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:18:38 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:23:25 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:24:26 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:25:06 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:25:13 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:26:31 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:37:31 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:39:20 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:40:30 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:40:37 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:42:51 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:52:56 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:53:02 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13 {} 
+::1 Thu Jul 09 2020 14:58:03 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13  
+::1 Thu Jul 09 2020 14:58:10 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 13  
+::1 Thu Jul 09 2020 14:58:57 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m POST http://localhost:3000/api/v1/tours/  success {"name":"Summer Tour 2","duration":14,"difficulty":"easy","price":1500} 
+::1 Thu Jul 09 2020 15:00:52 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 15:02:47 GMT+0800 (Malay Peninsula Standard Time) [31merror[39m POST http://localhost:3000/api/v1/tours/ Missing name or price {"name":"Summer Tour 2","duration":14,"difficulty":"easy"}
+::1 Thu Jul 09 2020 15:07:22 GMT+0800 (Malay Peninsula Standard Time) [32minfo[39m GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 15:17:28 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 15:24:16 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 15:24:28 GMT+0800  [32minfo[39m Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 16:20:33 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 16:21:04 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Invalid Date [31merror[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/ Error: Converting circular structure to JSON 
+::1 Invalid Date [31merror[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/ Error: Converting circular structure to JSON 
+::1 Thu Jul 09 2020 16:34:16 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 16:39:50 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 16:47:18 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/  Total tours: 14  
+::1 Thu Jul 09 2020 16:48:27 GMT+0800  [31merror[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/16 Invalid ID 
+::1 Thu Jul 09 2020 16:49:42 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 POST http://localhost:3000/api/v1/tours/  success {"name":"Summer Tour 3","duration":10,"difficulty":"easy","price":1000} 
+::1 Thu Jul 09 2020 17:24:36 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/17  fail  
+::1 Thu Jul 09 2020 17:25:39 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/17  fail  
+::1 Thu Jul 09 2020 17:26:04 GMT+0800  [32minfo[39m PostmanRuntime/7.26.1 GET http://localhost:3000/api/v1/tours/17  fail  
